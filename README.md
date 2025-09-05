@@ -20,7 +20,7 @@
 - Carrying orders from a goat bot.   
 - Bot commands can be updated. 
 - Everything works flawlessly. 
-- Bot developer : [Click here ](https://www.facebook.com/profile.php?id=100076269693499)  
+- Bot developer : [Click here ](https://web.facebook.com/sifo.anter.2025)  
 
 ---
 
